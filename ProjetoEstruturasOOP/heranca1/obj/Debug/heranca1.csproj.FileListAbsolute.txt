@@ -1,0 +1,20 @@
+C:\Users\aluno\Desktop\ProjetoEstruturasOOP\heranca1\bin\Debug\heranca1.exe.config
+C:\Users\aluno\Desktop\ProjetoEstruturasOOP\heranca1\bin\Debug\heranca1.exe
+C:\Users\aluno\Desktop\ProjetoEstruturasOOP\heranca1\bin\Debug\heranca1.pdb
+C:\Users\aluno\Desktop\ProjetoEstruturasOOP\heranca1\obj\Debug\heranca1.csprojAssemblyReference.cache
+C:\Users\aluno\Desktop\ProjetoEstruturasOOP\heranca1\obj\Debug\heranca1.Form1.resources
+C:\Users\aluno\Desktop\ProjetoEstruturasOOP\heranca1\obj\Debug\heranca1.Properties.Resources.resources
+C:\Users\aluno\Desktop\ProjetoEstruturasOOP\heranca1\obj\Debug\heranca1.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\ProjetoEstruturasOOP\heranca1\obj\Debug\heranca1.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\ProjetoEstruturasOOP\heranca1\obj\Debug\heranca1.exe
+C:\Users\aluno\Desktop\ProjetoEstruturasOOP\heranca1\obj\Debug\heranca1.pdb
+C:\Users\Meu computador\Desktop\ProjetoEstruturasOOP\heranca1\bin\Debug\heranca1.exe.config
+C:\Users\Meu computador\Desktop\ProjetoEstruturasOOP\heranca1\bin\Debug\heranca1.exe
+C:\Users\Meu computador\Desktop\ProjetoEstruturasOOP\heranca1\bin\Debug\heranca1.pdb
+C:\Users\Meu computador\Desktop\ProjetoEstruturasOOP\heranca1\obj\Debug\heranca1.csprojAssemblyReference.cache
+C:\Users\Meu computador\Desktop\ProjetoEstruturasOOP\heranca1\obj\Debug\heranca1.Form1.resources
+C:\Users\Meu computador\Desktop\ProjetoEstruturasOOP\heranca1\obj\Debug\heranca1.Properties.Resources.resources
+C:\Users\Meu computador\Desktop\ProjetoEstruturasOOP\heranca1\obj\Debug\heranca1.csproj.GenerateResource.cache
+C:\Users\Meu computador\Desktop\ProjetoEstruturasOOP\heranca1\obj\Debug\heranca1.csproj.CoreCompileInputs.cache
+C:\Users\Meu computador\Desktop\ProjetoEstruturasOOP\heranca1\obj\Debug\heranca1.exe
+C:\Users\Meu computador\Desktop\ProjetoEstruturasOOP\heranca1\obj\Debug\heranca1.pdb

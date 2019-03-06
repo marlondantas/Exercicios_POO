@@ -1,0 +1,10 @@
+C:\Users\aluno\source\repos\ProjetoEstruturasOOP\HerancaSimples\bin\Debug\HerancaSimples.exe.config
+C:\Users\aluno\source\repos\ProjetoEstruturasOOP\HerancaSimples\bin\Debug\HerancaSimples.exe
+C:\Users\aluno\source\repos\ProjetoEstruturasOOP\HerancaSimples\bin\Debug\HerancaSimples.pdb
+C:\Users\aluno\source\repos\ProjetoEstruturasOOP\HerancaSimples\obj\Debug\HerancaSimples.csprojAssemblyReference.cache
+C:\Users\aluno\source\repos\ProjetoEstruturasOOP\HerancaSimples\obj\Debug\HerancaSimples.Form1.resources
+C:\Users\aluno\source\repos\ProjetoEstruturasOOP\HerancaSimples\obj\Debug\HerancaSimples.Properties.Resources.resources
+C:\Users\aluno\source\repos\ProjetoEstruturasOOP\HerancaSimples\obj\Debug\HerancaSimples.csproj.GenerateResource.cache
+C:\Users\aluno\source\repos\ProjetoEstruturasOOP\HerancaSimples\obj\Debug\HerancaSimples.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\ProjetoEstruturasOOP\HerancaSimples\obj\Debug\HerancaSimples.exe
+C:\Users\aluno\source\repos\ProjetoEstruturasOOP\HerancaSimples\obj\Debug\HerancaSimples.pdb
