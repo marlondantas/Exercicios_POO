@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HerancaSimples", "HerancaSi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "heranca1", "heranca1\heranca1.csproj", "{D7F47998-9DA3-48AA-8774-83C2649FACA5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aplicativo1", "..\ProjetoContaCorrente2019\Aplicativo1\Aplicativo1.csproj", "{5621A597-94E7-42CB-86AE-571984B48F0D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aplicativo1", "..\..\ProjetoContaCorrente2019\Aplicativo1\Aplicativo1.csproj", "{5621A597-94E7-42CB-86AE-571984B48F0D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
