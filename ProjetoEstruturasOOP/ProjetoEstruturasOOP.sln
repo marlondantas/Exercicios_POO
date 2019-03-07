@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "heranca1", "heranca1\heranc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aplicativo1", "..\..\ProjetoContaCorrente2019\Aplicativo1\Aplicativo1.csproj", "{5621A597-94E7-42CB-86AE-571984B48F0D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlunoEstagioTarefa", "AlunoEstagioTarefa\AlunoEstagioTarefa.csproj", "{FA621DA1-2785-419D-AC25-C9FCC422ACC6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,22 @@ Global
 		{5621A597-94E7-42CB-86AE-571984B48F0D}.Release|x64.Build.0 = Release|Any CPU
 		{5621A597-94E7-42CB-86AE-571984B48F0D}.Release|x86.ActiveCfg = Release|Any CPU
 		{5621A597-94E7-42CB-86AE-571984B48F0D}.Release|x86.Build.0 = Release|Any CPU
+		{FA621DA1-2785-419D-AC25-C9FCC422ACC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA621DA1-2785-419D-AC25-C9FCC422ACC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA621DA1-2785-419D-AC25-C9FCC422ACC6}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{FA621DA1-2785-419D-AC25-C9FCC422ACC6}.Debug|ARM.Build.0 = Debug|Any CPU
+		{FA621DA1-2785-419D-AC25-C9FCC422ACC6}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{FA621DA1-2785-419D-AC25-C9FCC422ACC6}.Debug|x64.Build.0 = Debug|Any CPU
+		{FA621DA1-2785-419D-AC25-C9FCC422ACC6}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{FA621DA1-2785-419D-AC25-C9FCC422ACC6}.Debug|x86.Build.0 = Debug|Any CPU
+		{FA621DA1-2785-419D-AC25-C9FCC422ACC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA621DA1-2785-419D-AC25-C9FCC422ACC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA621DA1-2785-419D-AC25-C9FCC422ACC6}.Release|ARM.ActiveCfg = Release|Any CPU
+		{FA621DA1-2785-419D-AC25-C9FCC422ACC6}.Release|ARM.Build.0 = Release|Any CPU
+		{FA621DA1-2785-419D-AC25-C9FCC422ACC6}.Release|x64.ActiveCfg = Release|Any CPU
+		{FA621DA1-2785-419D-AC25-C9FCC422ACC6}.Release|x64.Build.0 = Release|Any CPU
+		{FA621DA1-2785-419D-AC25-C9FCC422ACC6}.Release|x86.ActiveCfg = Release|Any CPU
+		{FA621DA1-2785-419D-AC25-C9FCC422ACC6}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

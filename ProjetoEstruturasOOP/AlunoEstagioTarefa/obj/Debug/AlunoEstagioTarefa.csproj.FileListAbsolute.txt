@@ -1,0 +1,10 @@
+C:\Users\Meu computador\Desktop\ex POO\ProjetoEstruturasOOP\AlunoEstagioTarefa\bin\Debug\AlunoEstagioTarefa.exe.config
+C:\Users\Meu computador\Desktop\ex POO\ProjetoEstruturasOOP\AlunoEstagioTarefa\bin\Debug\AlunoEstagioTarefa.exe
+C:\Users\Meu computador\Desktop\ex POO\ProjetoEstruturasOOP\AlunoEstagioTarefa\bin\Debug\AlunoEstagioTarefa.pdb
+C:\Users\Meu computador\Desktop\ex POO\ProjetoEstruturasOOP\AlunoEstagioTarefa\obj\Debug\AlunoEstagioTarefa.csprojAssemblyReference.cache
+C:\Users\Meu computador\Desktop\ex POO\ProjetoEstruturasOOP\AlunoEstagioTarefa\obj\Debug\AlunoEstagioTarefa.Form1.resources
+C:\Users\Meu computador\Desktop\ex POO\ProjetoEstruturasOOP\AlunoEstagioTarefa\obj\Debug\AlunoEstagioTarefa.Properties.Resources.resources
+C:\Users\Meu computador\Desktop\ex POO\ProjetoEstruturasOOP\AlunoEstagioTarefa\obj\Debug\AlunoEstagioTarefa.csproj.GenerateResource.cache
+C:\Users\Meu computador\Desktop\ex POO\ProjetoEstruturasOOP\AlunoEstagioTarefa\obj\Debug\AlunoEstagioTarefa.csproj.CoreCompileInputs.cache
+C:\Users\Meu computador\Desktop\ex POO\ProjetoEstruturasOOP\AlunoEstagioTarefa\obj\Debug\AlunoEstagioTarefa.exe
+C:\Users\Meu computador\Desktop\ex POO\ProjetoEstruturasOOP\AlunoEstagioTarefa\obj\Debug\AlunoEstagioTarefa.pdb
