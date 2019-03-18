@@ -1,0 +1,22 @@
+C:\Users\aluno\Desktop\git\Exercicios_POO\ProjetoEstruturasOOP\pesquisadeSatisfacao\bin\Debug\pesquisadeSatisfacao.exe.config
+C:\Users\aluno\Desktop\git\Exercicios_POO\ProjetoEstruturasOOP\pesquisadeSatisfacao\bin\Debug\pesquisadeSatisfacao.exe
+C:\Users\aluno\Desktop\git\Exercicios_POO\ProjetoEstruturasOOP\pesquisadeSatisfacao\bin\Debug\pesquisadeSatisfacao.pdb
+C:\Users\aluno\Desktop\git\Exercicios_POO\ProjetoEstruturasOOP\pesquisadeSatisfacao\obj\Debug\pesquisadeSatisfacao.csprojAssemblyReference.cache
+C:\Users\aluno\Desktop\git\Exercicios_POO\ProjetoEstruturasOOP\pesquisadeSatisfacao\obj\Debug\pesquisadeSatisfacao.Form1.resources
+C:\Users\aluno\Desktop\git\Exercicios_POO\ProjetoEstruturasOOP\pesquisadeSatisfacao\obj\Debug\pesquisadeSatisfacao.Properties.Resources.resources
+C:\Users\aluno\Desktop\git\Exercicios_POO\ProjetoEstruturasOOP\pesquisadeSatisfacao\obj\Debug\pesquisadeSatisfacao.questionario.resources
+C:\Users\aluno\Desktop\git\Exercicios_POO\ProjetoEstruturasOOP\pesquisadeSatisfacao\obj\Debug\pesquisadeSatisfacao.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\git\Exercicios_POO\ProjetoEstruturasOOP\pesquisadeSatisfacao\obj\Debug\pesquisadeSatisfacao.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\git\Exercicios_POO\ProjetoEstruturasOOP\pesquisadeSatisfacao\obj\Debug\pesquisadeSatisfacao.exe
+C:\Users\aluno\Desktop\git\Exercicios_POO\ProjetoEstruturasOOP\pesquisadeSatisfacao\obj\Debug\pesquisadeSatisfacao.pdb
+C:\Users\Meu computador\Desktop\git\Exercicios_POO\ProjetoEstruturasOOP\pesquisadeSatisfacao\bin\Debug\pesquisadeSatisfacao.exe.config
+C:\Users\Meu computador\Desktop\git\Exercicios_POO\ProjetoEstruturasOOP\pesquisadeSatisfacao\bin\Debug\pesquisadeSatisfacao.exe
+C:\Users\Meu computador\Desktop\git\Exercicios_POO\ProjetoEstruturasOOP\pesquisadeSatisfacao\bin\Debug\pesquisadeSatisfacao.pdb
+C:\Users\Meu computador\Desktop\git\Exercicios_POO\ProjetoEstruturasOOP\pesquisadeSatisfacao\obj\Debug\pesquisadeSatisfacao.csprojAssemblyReference.cache
+C:\Users\Meu computador\Desktop\git\Exercicios_POO\ProjetoEstruturasOOP\pesquisadeSatisfacao\obj\Debug\pesquisadeSatisfacao.Form1.resources
+C:\Users\Meu computador\Desktop\git\Exercicios_POO\ProjetoEstruturasOOP\pesquisadeSatisfacao\obj\Debug\pesquisadeSatisfacao.Properties.Resources.resources
+C:\Users\Meu computador\Desktop\git\Exercicios_POO\ProjetoEstruturasOOP\pesquisadeSatisfacao\obj\Debug\pesquisadeSatisfacao.questionario.resources
+C:\Users\Meu computador\Desktop\git\Exercicios_POO\ProjetoEstruturasOOP\pesquisadeSatisfacao\obj\Debug\pesquisadeSatisfacao.csproj.GenerateResource.cache
+C:\Users\Meu computador\Desktop\git\Exercicios_POO\ProjetoEstruturasOOP\pesquisadeSatisfacao\obj\Debug\pesquisadeSatisfacao.csproj.CoreCompileInputs.cache
+C:\Users\Meu computador\Desktop\git\Exercicios_POO\ProjetoEstruturasOOP\pesquisadeSatisfacao\obj\Debug\pesquisadeSatisfacao.exe
+C:\Users\Meu computador\Desktop\git\Exercicios_POO\ProjetoEstruturasOOP\pesquisadeSatisfacao\obj\Debug\pesquisadeSatisfacao.pdb
