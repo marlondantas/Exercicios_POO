@@ -1,0 +1,7 @@
+C:\Users\Meu computador\Desktop\git\Exercicios_POO\ProjetoEstruturasOOP\ListaAluno\bin\Debug\ListaAluno.exe.config
+C:\Users\Meu computador\Desktop\git\Exercicios_POO\ProjetoEstruturasOOP\ListaAluno\bin\Debug\ListaAluno.exe
+C:\Users\Meu computador\Desktop\git\Exercicios_POO\ProjetoEstruturasOOP\ListaAluno\bin\Debug\ListaAluno.pdb
+C:\Users\Meu computador\Desktop\git\Exercicios_POO\ProjetoEstruturasOOP\ListaAluno\obj\Debug\ListaAluno.csprojAssemblyReference.cache
+C:\Users\Meu computador\Desktop\git\Exercicios_POO\ProjetoEstruturasOOP\ListaAluno\obj\Debug\ListaAluno.csproj.CoreCompileInputs.cache
+C:\Users\Meu computador\Desktop\git\Exercicios_POO\ProjetoEstruturasOOP\ListaAluno\obj\Debug\ListaAluno.exe
+C:\Users\Meu computador\Desktop\git\Exercicios_POO\ProjetoEstruturasOOP\ListaAluno\obj\Debug\ListaAluno.pdb
